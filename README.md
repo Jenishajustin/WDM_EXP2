@@ -43,7 +43,7 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 #### buying.arff
-![Screenshot 2024-08-17 134213](https://github.com/user-attachments/assets/0a603060-9794-4775-b748-73308b22bbb0)
+![image](https://github.com/user-attachments/assets/78a894fb-9605-4bf4-bd2b-d31a2bac472d)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -54,8 +54,6 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-<img src="https://github.com/user-attachments/assets/62af47c6-46ea-4894-8222-be1cdfc65f78" height=100% width=75%>
-<img src="https://github.com/user-attachments/assets/498977d5-7198-46f3-87c1-2c9f837be22e" height=100% width=75%>
-
+![image](https://github.com/user-attachments/assets/65820b8d-43f5-4225-b861-093842b7eaa2)
 ### RESULT: 
 Thus the Association rules for Employee data set using Apriori Algorithm is generated successfully.
